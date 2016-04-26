@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+ruby "2.3.0"
 
 
 gem 'rails', '4.2.6'
@@ -10,6 +11,7 @@ gem 'turbolinks'
 gem 'bootstrap-sass'
 gem 'jbuilder', '~> 2.0'
 gem 'devise'
+gem 'puma'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 
