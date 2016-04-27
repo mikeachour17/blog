@@ -11,6 +11,7 @@ gem 'turbolinks'
 gem 'bootstrap-sass'
 gem 'jbuilder', '~> 2.0'
 gem 'devise'
+gem 'paperclip', '~> 4.2'
 gem 'puma'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
