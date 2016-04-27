@@ -13,6 +13,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'devise'
 gem 'paperclip', '~> 4.2'
 gem 'puma'
+gem 'aws-sdk', '< 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 
